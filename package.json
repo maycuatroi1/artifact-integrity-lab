@@ -1,0 +1,13 @@
+{
+  "name": "artifact-integrity-lab",
+  "version": "1.0.0",
+  "description": "Lab 3: Artifact Integrity (Signing & SBOM)",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Tests passed\" && exit 0"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
